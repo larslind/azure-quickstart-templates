@@ -9,7 +9,7 @@
         },
         "vmDiskSize": {
             "type": "int",
-            "minValue": 128,
+            "minValue": 32,
             "maxValue": 1023
         },
         "diskCaching": {
